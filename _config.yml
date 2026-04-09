@@ -12,7 +12,7 @@ lang: pl
 timezone: Europe/Warsaw
 
 # Logo
-avatar: assets/img/logo/logo.png
+avatar: https://mi-sterwp.github.io/mister-blog/assets/img/logo/logo.png
 
 github: Mi-SterWP
 
