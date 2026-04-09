@@ -1,14 +1,15 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", "~> 7.5"
+gem "jekyll", "~> 4.4.1"
 
-gem "html-proofer", "~> 5.0", group: :test
+# Gems required by Chirpy
+gem "jekyll-feed"
+gem "jekyll-seo-tag"
+gem "jekyll-archives"
+gem "webrick"
 
-platforms :windows, :jruby do
-  gem "tzinfo", ">= 1", "< 3"
-  gem "tzinfo-data"
+group :jekyll_plugins do
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
+  gem "jekyll-archives"
 end
-
-gem "wdm", "~> 0.2.0", :platforms => [:windows]
