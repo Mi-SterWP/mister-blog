@@ -24,4 +24,6 @@ paginate: 10
 paginate_path: "page/:num"
 future: true
 
-# Wymagane wtyczki
+# Custom CSS - kolory MiSter
+custom_css:
+  - /assets/css/custom.css
