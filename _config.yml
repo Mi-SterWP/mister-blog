@@ -3,8 +3,7 @@ tagline: Sterowniki programowalne • Montaż SMD/THT • Elektronika na zamówi
 description: >-
   Aktualności, porady techniczne i realizacje z zakresu projektowania urządzeń elektronicznych, montażu kontraktowego SMT/THT oraz programowania mikrokontrolerów.
 
-# === WAŻNE DLA TWOJEGO REPO ===
-baseurl: "/mister-blog"          # <--- to jest najważniejsze
+baseurl: "/mister-blog"
 url: "https://mi-sterwp.github.io"
 
 remote_theme: cotes2020/jekyll-theme-chirpy
@@ -17,9 +16,16 @@ avatar: /assets/img/logo/MiSter_logo_RGB_50.png
 
 github: Mi-SterWP
 
+# Wygląd
 theme_mode: dark
-future: true
-incremental: false
 
+# Dodatkowe ustawienia Chirpy
 paginate: 10
 paginate_path: "page/:num"
+future: true
+
+# Wymagane wtyczki
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
