@@ -1,31 +1,25 @@
-# ==================== KONFIGURACJA BLOGU MiSter ====================
-
 title: Blog MiSter
 tagline: Sterowniki programowalne • Montaż SMD/THT • Elektronika na zamówienie
 description: >-
-  Aktualności, porady techniczne i realizacje z zakresu projektowania urządzeń elektronicznych, 
-  montażu kontraktowego SMT/THT oraz programowania mikrokontrolerów.
+  Aktualności, porady techniczne i realizacje z zakresu projektowania urządzeń elektronicznych, montażu kontraktowego SMT/THT oraz programowania mikrokontrolerów.
 
-# Język polski
+# === WAŻNE DLA TWOJEGO REPO ===
+baseurl: "/mister-blog"          # <--- to jest najważniejsze
+url: "https://mi-sterwp.github.io"
+
+remote_theme: cotes2020/jekyll-theme-chirpy
+
 lang: pl
+timezone: Europe/Warsaw
 
-# Link do Twojej głównej strony (opcjonalnie)
-url: "https://mister.net.pl"          # później zmienisz na swoją domenę
-
-# Logo / avatar
+# Logo
 avatar: /assets/img/logo/MiSter_logo_RGB_50.png
 
-# Twoje dane
-github: TWOJA_NAZWA_NA_GITHUBIE       # ← ZMIEŃ na swój login GitHub
+github: Mi-SterWP
 
-# Inne ustawienia
-timezone: Europe/Warsaw
+theme_mode: dark
 future: true
 incremental: false
 
-# Wygląd
-theme_mode: dark                      # ciemny motyw (pasuje do Twojej strony)
-
-# Kategorie i tagi
 paginate: 10
 paginate_path: "page/:num"
