@@ -1,35 +1,28 @@
 ---
-title: "Twój tytuł wpisu"
+title: "Pierwszy wpis na blogu MiSter"
 date: 2026-04-09 10:00:00 +0200
 categories: [Aktualności]
-tags: [MiSter, elektronika, montaż]
+tags: [MiSter, montaż, elektronika]
 ---
 
-# Twój tytuł wpisu
+# Pierwszy wpis na blogu MiSter
 
-Tutaj wpisz treść artykułu.
+Witamy na oficjalnym blogu firmy **MiSter**!
 
-Możesz używać **pogrubienia**, *kursywy*, list itp.
+Od ponad 20 lat projektujemy i montujemy urządzenia elektroniczne na zamówienie. W tym miejscu będziemy publikować:
 
-### Przykład akapitu
-Firma MiSter od ponad 20 lat specjalizuje się w projektowaniu i montażu urządzeń elektronicznych. Oferujemy kompleksowe usługi od projektu po gotowy produkt.
+- porady techniczne
+- opisy realizacji
+- informacje o nowych usługach
+- ciekawostki z branży elektroniki
 
-### Zdjęcia
-Możesz dodać zdjęcia w ten sposób:
+**Pierwsze wpisy już wkrótce:**
+- Jak wygląda proces montażu kontraktowego SMD/THT?
+- Dlaczego warto wybrać montaż bezołowiowy?
+- Nasze najnowsze realizacje
 
-![Opis zdjęcia](/assets/img/posts/nazwa-zdjecia.jpg)
-
----
-
-Jeśli chcesz, żebym przygotował Ci gotowy wpis na konkretny temat (np. „Jak wygląda proces montażu SMD/THT”, „Dlaczego warto wybrać montaż kontraktowy” itp.), napisz mi tylko temat i najważniejsze punkty.
-
-**Po zapisaniu pliku** (Commit changes) wpis pojawi się automatycznie na blogu po 30–60 sekundach.
+Jeśli masz pytanie lub pomysł na urządzenie – napisz do nas!
 
 ---
 
-**Napisz mi teraz:**
-
-- „Zrobiłem wpis” → dam Ci link jak go zobaczyć
-- lub „Przygotuj mi gotowy przykładowy wpis na temat …” (i podaj temat)
-
-Co chcesz zrobić?
+Mister@mister.net.pl
