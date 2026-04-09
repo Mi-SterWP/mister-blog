@@ -25,7 +25,3 @@ paginate_path: "page/:num"
 future: true
 
 # Wymagane wtyczki
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
